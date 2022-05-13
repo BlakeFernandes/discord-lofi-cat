@@ -1,17 +1,16 @@
-![](https://i.imgur.com/bdS1qh5.png "Banner")
+![](https://i.imgur.com/etSEVJS.png "Banner")
 
-# Discord Lofi Music Bot
-Discord lofi bot is a simple to use music bot coded in TypeScript.
-This bot uses the [`lavaplayer`](https://github.com/sedmelluq/lavaplayer) library for audio.
+# Lofi Cat 
+Lofi Cat is a discord music bot, it provides a clean interface and simple use commands.
+This bot uses the [`lavaplayer`](https://github.com/sedmelluq/lavaplayer) library to stream audio.
 
-## Usage
-Modify `config.yaml` to include your discord bot's token and your User ID for accessing admin commands.
-
-You can start the bot with the `make start` command.
+## Installation & Usage
+- You can start the bot with the `make start` command.
+- Modify `config.yaml` to include your discord bots token and your User ID to access admin commands.
 
 ## Feature Overview
-* [`Filters`]() - ...
-* [`Playlist`]() - ...
-* [`Lyrics`]() - ...
-* [`Audio Control`]() - ...
-* [`Configurability`]() - ...
+* [`Filters`]() - add custom audio filters to change how music played from the bot sounds.
+* [`Playlist`]() - add large playlists to the queue from YouTube, Spotify and more.
+* [`Lyrics`]() - view or lookup lyrics for songs.
+* [`Audio Control`]() - full control of managing what is playing, skipping, pausing, etc.
+* [`Configurability`]() - configure the bots messages and commands through the config files.

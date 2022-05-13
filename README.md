@@ -1,4 +1,4 @@
-![](https://i.imgur.com/y9RqMmE.png "Banner")
+![](https://i.imgur.com/wQL5zm2.png "Banner")
 
 # Lofi Cat 
 Lofi Cat is a discord music bot, it provides a clean interface and simple use commands.
